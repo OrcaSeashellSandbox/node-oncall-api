@@ -10,7 +10,7 @@
   "author": "Neil Carpenter <neil.carpenter@torq.io>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "jsonwebtoken": "^8.5.1",
     "md5": "^2.2.1",
     "nw-gyp": "^3.6.5",
